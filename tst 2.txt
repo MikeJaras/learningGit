@@ -1,7 +1,8 @@
 hallo
 A
-ett
+1
 B
-två
+2
 C
-tre
+3
+
