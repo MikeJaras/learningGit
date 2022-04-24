@@ -1,10 +1,7 @@
 hallo
 A
-1
 ett
 B
-2
 två
 C
-3
 tre
